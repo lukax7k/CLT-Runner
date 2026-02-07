@@ -1,7 +1,5 @@
 initial_timer = 60;
 
-audio_play_sound(snd_intro, 0, 1);
-
 estado = "inicio"
 
 passa_quadro = false;
